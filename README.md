@@ -1,3 +1,6 @@
+linux本地信息收集脚本
+以及渗透后期信息收集
+
 # LinEnum
 For more information visit www.rebootuser.com
 
